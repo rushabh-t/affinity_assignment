@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "mysql-rfam-public.ebi.ac.uk",
+            "port": 4497,
+            "driver": "MySQL",
+            "name": "affinity",
+            "database": "Rfam",
+            "username": "rfamro",
+            "password": ""
+        }
+    ]
+}
